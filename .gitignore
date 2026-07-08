@@ -1,0 +1,3 @@
+# MySQL binary logs
+ib_logfile*
+# Keep the frm/ibd files tracked
